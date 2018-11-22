@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BD_Sunat1ModelStoreContainer" CdmEntityContainer="BD_Sunat1Entities">
+    <FunctionImportMapping FunctionImportName="ObtenerEmpresa" FunctionName="BD_Sunat1Model.Store.ObtenerEmpresa">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="BD_Sunat1Model.ObtenerEmpresa_Result">
+          <ScalarProperty Name="IdEmpresa" ColumnName="IdEmpresa" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Llave" ColumnName="Llave" />
+          <ScalarProperty Name="Estado" ColumnName="Estado" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="ObtenerEmpresaTodas" FunctionName="BD_Sunat1Model.Store.ObtenerEmpresaTodas">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="BD_Sunat1Model.ObtenerEmpresaTodas_Result">
+          <ScalarProperty Name="IdEmpresa" ColumnName="IdEmpresa" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Llave" ColumnName="Llave" />
+          <ScalarProperty Name="Estado" ColumnName="Estado" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="ValidarUsuario" FunctionName="BD_Sunat1Model.Store.ValidarUsuario" />
+    <FunctionImportMapping FunctionImportName="Login" FunctionName="BD_Sunat1Model.Store.Login" />
+    <EntitySetMapping Name="Empresa">
+      <EntityTypeMapping TypeName="BD_Sunat1Model.Empresa">
+        <MappingFragment StoreEntitySet="Empresa">
+          <ScalarProperty Name="Estado" ColumnName="Estado" />
+          <ScalarProperty Name="Llave" ColumnName="Llave" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="IdEmpresa" ColumnName="IdEmpresa" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Usuario">
+      <EntityTypeMapping TypeName="BD_Sunat1Model.Usuario">
+        <MappingFragment StoreEntitySet="Usuario">
+          <ScalarProperty Name="Estado" ColumnName="Estado" />
+          <ScalarProperty Name="Pass" ColumnName="Pass" />
+          <ScalarProperty Name="DNI" ColumnName="DNI" />
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="Apellido" ColumnName="Apellido" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="AgregarEmpresa" FunctionName="BD_Sunat1Model.Store.AgregarEmpresa" />
+    <FunctionImportMapping FunctionImportName="BorrarEmpresa" FunctionName="BD_Sunat1Model.Store.BorrarEmpresa" />
+    <FunctionImportMapping FunctionImportName="ModificarEmpresa" FunctionName="BD_Sunat1Model.Store.ModificarEmpresa" />
+  </EntityContainerMapping>
+</Mapping>

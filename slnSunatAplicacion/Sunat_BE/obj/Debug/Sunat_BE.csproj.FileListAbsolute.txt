@@ -1,0 +1,48 @@
+C:\Users\DEIVI\source\repos\slnSunatAplicacion\Sunat_BE\bin\Debug\Sunat_BE.dll.config
+C:\Users\DEIVI\source\repos\slnSunatAplicacion\Sunat_BE\bin\Debug\Sunat_BE.dll
+C:\Users\DEIVI\source\repos\slnSunatAplicacion\Sunat_BE\bin\Debug\Sunat_BE.pdb
+C:\Users\DEIVI\source\repos\slnSunatAplicacion\Sunat_BE\bin\Debug\EntityFramework.dll
+C:\Users\DEIVI\source\repos\slnSunatAplicacion\Sunat_BE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DEIVI\source\repos\slnSunatAplicacion\Sunat_BE\bin\Debug\EntityFramework.xml
+C:\Users\DEIVI\source\repos\slnSunatAplicacion\Sunat_BE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DEIVI\source\repos\slnSunatAplicacion\Sunat_BE\obj\Debug\Sunat_BE.csprojAssemblyReference.cache
+C:\Users\DEIVI\source\repos\slnSunatAplicacion\Sunat_BE\obj\Debug\Sunat_BE.csproj.CoreCompileInputs.cache
+C:\Users\DEIVI\source\repos\slnSunatAplicacion\Sunat_BE\obj\Debug\Sunat_BE.csproj.CopyComplete
+C:\Users\DEIVI\source\repos\slnSunatAplicacion\Sunat_BE\obj\Debug\Sunat_BE.dll
+C:\Users\DEIVI\source\repos\slnSunatAplicacion\Sunat_BE\obj\Debug\Sunat_BE.pdb
+C:\Users\Croweloper\Desktop\slnSunatAplicacion\Sunat_BE\bin\Debug\Sunat_BE.dll.config
+C:\Users\Croweloper\Desktop\slnSunatAplicacion\Sunat_BE\bin\Debug\Sunat_BE.dll
+C:\Users\Croweloper\Desktop\slnSunatAplicacion\Sunat_BE\bin\Debug\Sunat_BE.pdb
+C:\Users\Croweloper\Desktop\slnSunatAplicacion\Sunat_BE\bin\Debug\EntityFramework.dll
+C:\Users\Croweloper\Desktop\slnSunatAplicacion\Sunat_BE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Croweloper\Desktop\slnSunatAplicacion\Sunat_BE\bin\Debug\EntityFramework.xml
+C:\Users\Croweloper\Desktop\slnSunatAplicacion\Sunat_BE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Croweloper\Desktop\slnSunatAplicacion\Sunat_BE\obj\Debug\Sunat_BE.csproj.CoreCompileInputs.cache
+C:\Users\Croweloper\Desktop\slnSunatAplicacion\Sunat_BE\obj\Debug\Sunat_BE.csproj.CopyComplete
+C:\Users\Croweloper\Desktop\slnSunatAplicacion\Sunat_BE\obj\Debug\Sunat_BE.dll
+C:\Users\Croweloper\Desktop\slnSunatAplicacion\Sunat_BE\obj\Debug\Sunat_BE.pdb
+C:\Users\Croweloper\Desktop\slnSunatAplicacion\Sunat_BE\obj\Debug\Sunat_BE.csprojAssemblyReference.cache
+C:\Users\CARLOS\Desktop\slnSunatAplicacion\Sunat_BE\bin\Debug\Sunat_BE.dll.config
+C:\Users\CARLOS\Desktop\slnSunatAplicacion\Sunat_BE\bin\Debug\Sunat_BE.dll
+C:\Users\CARLOS\Desktop\slnSunatAplicacion\Sunat_BE\bin\Debug\Sunat_BE.pdb
+C:\Users\CARLOS\Desktop\slnSunatAplicacion\Sunat_BE\bin\Debug\EntityFramework.dll
+C:\Users\CARLOS\Desktop\slnSunatAplicacion\Sunat_BE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CARLOS\Desktop\slnSunatAplicacion\Sunat_BE\bin\Debug\EntityFramework.xml
+C:\Users\CARLOS\Desktop\slnSunatAplicacion\Sunat_BE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CARLOS\Desktop\slnSunatAplicacion\Sunat_BE\obj\Debug\Sunat_BE.csprojAssemblyReference.cache
+C:\Users\CARLOS\Desktop\slnSunatAplicacion\Sunat_BE\obj\Debug\Sunat_BE.csproj.CoreCompileInputs.cache
+C:\Users\CARLOS\Desktop\slnSunatAplicacion\Sunat_BE\obj\Debug\Sunat_BE.csproj.CopyComplete
+C:\Users\CARLOS\Desktop\slnSunatAplicacion\Sunat_BE\obj\Debug\Sunat_BE.dll
+C:\Users\CARLOS\Desktop\slnSunatAplicacion\Sunat_BE\obj\Debug\Sunat_BE.pdb
+H:\idat\ciclo 4\Arquitectura de sistemas y herramientas profe veneco\slnSunatAplicacion\Sunat_BE\bin\Debug\Sunat_BE.dll.config
+H:\idat\ciclo 4\Arquitectura de sistemas y herramientas profe veneco\slnSunatAplicacion\Sunat_BE\bin\Debug\Sunat_BE.dll
+H:\idat\ciclo 4\Arquitectura de sistemas y herramientas profe veneco\slnSunatAplicacion\Sunat_BE\bin\Debug\Sunat_BE.pdb
+H:\idat\ciclo 4\Arquitectura de sistemas y herramientas profe veneco\slnSunatAplicacion\Sunat_BE\bin\Debug\EntityFramework.dll
+H:\idat\ciclo 4\Arquitectura de sistemas y herramientas profe veneco\slnSunatAplicacion\Sunat_BE\bin\Debug\EntityFramework.SqlServer.dll
+H:\idat\ciclo 4\Arquitectura de sistemas y herramientas profe veneco\slnSunatAplicacion\Sunat_BE\bin\Debug\EntityFramework.xml
+H:\idat\ciclo 4\Arquitectura de sistemas y herramientas profe veneco\slnSunatAplicacion\Sunat_BE\bin\Debug\EntityFramework.SqlServer.xml
+H:\idat\ciclo 4\Arquitectura de sistemas y herramientas profe veneco\slnSunatAplicacion\Sunat_BE\obj\Debug\Sunat_BE.csprojAssemblyReference.cache
+H:\idat\ciclo 4\Arquitectura de sistemas y herramientas profe veneco\slnSunatAplicacion\Sunat_BE\obj\Debug\Sunat_BE.csproj.CoreCompileInputs.cache
+H:\idat\ciclo 4\Arquitectura de sistemas y herramientas profe veneco\slnSunatAplicacion\Sunat_BE\obj\Debug\Sunat_BE.csproj.CopyComplete
+H:\idat\ciclo 4\Arquitectura de sistemas y herramientas profe veneco\slnSunatAplicacion\Sunat_BE\obj\Debug\Sunat_BE.dll
+H:\idat\ciclo 4\Arquitectura de sistemas y herramientas profe veneco\slnSunatAplicacion\Sunat_BE\obj\Debug\Sunat_BE.pdb

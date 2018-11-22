@@ -1,0 +1,60 @@
+C:\Users\DEIVI\source\repos\slnSunatAplicacion\Sunat_BL\bin\Debug\Sunat_BL.dll
+C:\Users\DEIVI\source\repos\slnSunatAplicacion\Sunat_BL\bin\Debug\Sunat_BL.pdb
+C:\Users\DEIVI\source\repos\slnSunatAplicacion\Sunat_BL\bin\Debug\Sunat_AD.dll
+C:\Users\DEIVI\source\repos\slnSunatAplicacion\Sunat_BL\bin\Debug\Sunat_BE.dll
+C:\Users\DEIVI\source\repos\slnSunatAplicacion\Sunat_BL\bin\Debug\EntityFramework.dll
+C:\Users\DEIVI\source\repos\slnSunatAplicacion\Sunat_BL\bin\Debug\Sunat_AD.pdb
+C:\Users\DEIVI\source\repos\slnSunatAplicacion\Sunat_BL\bin\Debug\Sunat_AD.dll.config
+C:\Users\DEIVI\source\repos\slnSunatAplicacion\Sunat_BL\bin\Debug\Sunat_BE.pdb
+C:\Users\DEIVI\source\repos\slnSunatAplicacion\Sunat_BL\bin\Debug\Sunat_BE.dll.config
+C:\Users\DEIVI\source\repos\slnSunatAplicacion\Sunat_BL\bin\Debug\EntityFramework.xml
+C:\Users\DEIVI\source\repos\slnSunatAplicacion\Sunat_BL\obj\Debug\Sunat_BL.csprojAssemblyReference.cache
+C:\Users\DEIVI\source\repos\slnSunatAplicacion\Sunat_BL\obj\Debug\Sunat_BL.csproj.CoreCompileInputs.cache
+C:\Users\DEIVI\source\repos\slnSunatAplicacion\Sunat_BL\obj\Debug\Sunat_BL.csproj.CopyComplete
+C:\Users\DEIVI\source\repos\slnSunatAplicacion\Sunat_BL\obj\Debug\Sunat_BL.dll
+C:\Users\DEIVI\source\repos\slnSunatAplicacion\Sunat_BL\obj\Debug\Sunat_BL.pdb
+C:\Users\Croweloper\Desktop\slnSunatAplicacion\Sunat_BL\bin\Debug\Sunat_BL.dll
+C:\Users\Croweloper\Desktop\slnSunatAplicacion\Sunat_BL\bin\Debug\Sunat_BL.pdb
+C:\Users\Croweloper\Desktop\slnSunatAplicacion\Sunat_BL\bin\Debug\Sunat_AD.dll
+C:\Users\Croweloper\Desktop\slnSunatAplicacion\Sunat_BL\bin\Debug\Sunat_BE.dll
+C:\Users\Croweloper\Desktop\slnSunatAplicacion\Sunat_BL\bin\Debug\EntityFramework.dll
+C:\Users\Croweloper\Desktop\slnSunatAplicacion\Sunat_BL\bin\Debug\Sunat_AD.pdb
+C:\Users\Croweloper\Desktop\slnSunatAplicacion\Sunat_BL\bin\Debug\Sunat_AD.dll.config
+C:\Users\Croweloper\Desktop\slnSunatAplicacion\Sunat_BL\bin\Debug\Sunat_BE.pdb
+C:\Users\Croweloper\Desktop\slnSunatAplicacion\Sunat_BL\bin\Debug\Sunat_BE.dll.config
+C:\Users\Croweloper\Desktop\slnSunatAplicacion\Sunat_BL\bin\Debug\EntityFramework.xml
+C:\Users\Croweloper\Desktop\slnSunatAplicacion\Sunat_BL\obj\Debug\Sunat_BL.csprojAssemblyReference.cache
+C:\Users\Croweloper\Desktop\slnSunatAplicacion\Sunat_BL\obj\Debug\Sunat_BL.csproj.CoreCompileInputs.cache
+C:\Users\Croweloper\Desktop\slnSunatAplicacion\Sunat_BL\obj\Debug\Sunat_BL.csproj.CopyComplete
+C:\Users\Croweloper\Desktop\slnSunatAplicacion\Sunat_BL\obj\Debug\Sunat_BL.dll
+C:\Users\Croweloper\Desktop\slnSunatAplicacion\Sunat_BL\obj\Debug\Sunat_BL.pdb
+C:\Users\CARLOS\Desktop\slnSunatAplicacion\Sunat_BL\bin\Debug\Sunat_BL.dll
+C:\Users\CARLOS\Desktop\slnSunatAplicacion\Sunat_BL\bin\Debug\Sunat_BL.pdb
+C:\Users\CARLOS\Desktop\slnSunatAplicacion\Sunat_BL\bin\Debug\Sunat_AD.dll
+C:\Users\CARLOS\Desktop\slnSunatAplicacion\Sunat_BL\bin\Debug\Sunat_BE.dll
+C:\Users\CARLOS\Desktop\slnSunatAplicacion\Sunat_BL\bin\Debug\EntityFramework.dll
+C:\Users\CARLOS\Desktop\slnSunatAplicacion\Sunat_BL\bin\Debug\Sunat_AD.pdb
+C:\Users\CARLOS\Desktop\slnSunatAplicacion\Sunat_BL\bin\Debug\Sunat_AD.dll.config
+C:\Users\CARLOS\Desktop\slnSunatAplicacion\Sunat_BL\bin\Debug\Sunat_BE.pdb
+C:\Users\CARLOS\Desktop\slnSunatAplicacion\Sunat_BL\bin\Debug\Sunat_BE.dll.config
+C:\Users\CARLOS\Desktop\slnSunatAplicacion\Sunat_BL\bin\Debug\EntityFramework.xml
+C:\Users\CARLOS\Desktop\slnSunatAplicacion\Sunat_BL\obj\Debug\Sunat_BL.csprojAssemblyReference.cache
+C:\Users\CARLOS\Desktop\slnSunatAplicacion\Sunat_BL\obj\Debug\Sunat_BL.csproj.CoreCompileInputs.cache
+C:\Users\CARLOS\Desktop\slnSunatAplicacion\Sunat_BL\obj\Debug\Sunat_BL.csproj.CopyComplete
+C:\Users\CARLOS\Desktop\slnSunatAplicacion\Sunat_BL\obj\Debug\Sunat_BL.dll
+C:\Users\CARLOS\Desktop\slnSunatAplicacion\Sunat_BL\obj\Debug\Sunat_BL.pdb
+H:\idat\ciclo 4\Arquitectura de sistemas y herramientas profe veneco\slnSunatAplicacion\Sunat_BL\obj\Debug\Sunat_BL.csprojAssemblyReference.cache
+H:\idat\ciclo 4\Arquitectura de sistemas y herramientas profe veneco\slnSunatAplicacion\Sunat_BL\obj\Debug\Sunat_BL.csproj.CoreCompileInputs.cache
+H:\idat\ciclo 4\Arquitectura de sistemas y herramientas profe veneco\slnSunatAplicacion\Sunat_BL\obj\Debug\Sunat_BL.dll
+H:\idat\ciclo 4\Arquitectura de sistemas y herramientas profe veneco\slnSunatAplicacion\Sunat_BL\obj\Debug\Sunat_BL.pdb
+H:\idat\ciclo 4\Arquitectura de sistemas y herramientas profe veneco\slnSunatAplicacion\Sunat_BL\bin\Debug\Sunat_BL.dll
+H:\idat\ciclo 4\Arquitectura de sistemas y herramientas profe veneco\slnSunatAplicacion\Sunat_BL\bin\Debug\Sunat_BL.pdb
+H:\idat\ciclo 4\Arquitectura de sistemas y herramientas profe veneco\slnSunatAplicacion\Sunat_BL\bin\Debug\Sunat_AD.dll
+H:\idat\ciclo 4\Arquitectura de sistemas y herramientas profe veneco\slnSunatAplicacion\Sunat_BL\bin\Debug\Sunat_BE.dll
+H:\idat\ciclo 4\Arquitectura de sistemas y herramientas profe veneco\slnSunatAplicacion\Sunat_BL\bin\Debug\EntityFramework.dll
+H:\idat\ciclo 4\Arquitectura de sistemas y herramientas profe veneco\slnSunatAplicacion\Sunat_BL\bin\Debug\Sunat_AD.pdb
+H:\idat\ciclo 4\Arquitectura de sistemas y herramientas profe veneco\slnSunatAplicacion\Sunat_BL\bin\Debug\Sunat_AD.dll.config
+H:\idat\ciclo 4\Arquitectura de sistemas y herramientas profe veneco\slnSunatAplicacion\Sunat_BL\bin\Debug\Sunat_BE.pdb
+H:\idat\ciclo 4\Arquitectura de sistemas y herramientas profe veneco\slnSunatAplicacion\Sunat_BL\bin\Debug\Sunat_BE.dll.config
+H:\idat\ciclo 4\Arquitectura de sistemas y herramientas profe veneco\slnSunatAplicacion\Sunat_BL\bin\Debug\EntityFramework.xml
+H:\idat\ciclo 4\Arquitectura de sistemas y herramientas profe veneco\slnSunatAplicacion\Sunat_BL\obj\Debug\Sunat_BL.csproj.CopyComplete

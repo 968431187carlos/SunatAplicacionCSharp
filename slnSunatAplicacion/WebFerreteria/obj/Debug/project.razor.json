@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "h:\\idat\\ciclo 4\\Arquitectura de sistemas y herramientas profe veneco\\slnSunatAplicacion\\WebFerreteria\\WebFerreteria.csproj",
+  "TargetFramework": "v4.6.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

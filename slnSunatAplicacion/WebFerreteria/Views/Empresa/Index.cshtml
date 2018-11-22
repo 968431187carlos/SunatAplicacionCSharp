@@ -1,0 +1,48 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div> 
+    </div>
+    <link href="~/style/StyleSheet1.css" rel="stylesheet" />
+    <table>
+        <tr><td>listado de emptresa</td></tr>
+        <tr>
+            <td>codigo</td>
+            <td>des</td>
+            <td>llav</td>
+            <td>est</td>
+            <td>EDITAR</td>
+        </tr>
+        @foreach (WebFerreteria.SVRsunat.ObtenerEmpresaTodas_Result datosEmpresa in Model)
+        {
+        <tr>
+            <td>@datosEmpresa.IdEmpresa</td>
+            <td>@datosEmpresa.Nombre</td>
+            <td>@datosEmpresa.Llave</td>
+            @switch (@datosEmpresa.Estado)
+            {
+                case 1:
+                <td>activo</td> break;
+                case 2:
+                <td>pendiente</td> break;
+                case 3:
+                    <td>otro</td> break;
+            }
+            <td>
+                @Html.ActionLink("editar", "Editar", "empresa", new {pIdEmpresa=datosEmpresa.IdEmpresa, pkey=datosEmpresa.Llave })
+            </td>
+        </tr>
+        }
+    </table>
+</body>
+</html>

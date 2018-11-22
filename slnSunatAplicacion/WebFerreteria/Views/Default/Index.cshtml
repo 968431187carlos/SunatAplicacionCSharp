@@ -1,0 +1,30 @@
+﻿
+@model WebFerreteria.Models.Cliente
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>FERRETERIA 1.1</title>
+</head>
+<body>
+    <div>
+        hora de acceso: @ViewData["fecha"]
+        @if (Model.Edad>18)
+        {
+        <p>Bienvenido: @Model.Nombre.ToString()</p>
+        <input type="text" value="@Model.Codigo" readonly/>
+        }
+        else
+        {
+            <p>Usted es menor de Edad: @Model.Nombre</p>
+            <p>Tu edad es: @Model.Edad</p><p>La edad perimitida: 18</p>
+        }
+
+    </div>
+</body>
+</html>

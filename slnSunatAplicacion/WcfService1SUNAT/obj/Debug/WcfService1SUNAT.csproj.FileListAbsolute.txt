@@ -1,0 +1,80 @@
+C:\Users\DEIVI\source\repos\slnSunatAplicacion\WcfService1SUNAT\bin\WcfService1SUNAT.dll.config
+C:\Users\DEIVI\source\repos\slnSunatAplicacion\WcfService1SUNAT\bin\WcfService1SUNAT.dll
+C:\Users\DEIVI\source\repos\slnSunatAplicacion\WcfService1SUNAT\bin\WcfService1SUNAT.pdb
+C:\Users\DEIVI\source\repos\slnSunatAplicacion\WcfService1SUNAT\obj\Debug\WcfService1SUNAT.csprojAssemblyReference.cache
+C:\Users\DEIVI\source\repos\slnSunatAplicacion\WcfService1SUNAT\obj\Debug\WcfService1SUNAT.csproj.CoreCompileInputs.cache
+C:\Users\DEIVI\source\repos\slnSunatAplicacion\WcfService1SUNAT\obj\Debug\WcfService1SUNAT.dll
+C:\Users\DEIVI\source\repos\slnSunatAplicacion\WcfService1SUNAT\obj\Debug\WcfService1SUNAT.pdb
+C:\Users\DEIVI\source\repos\slnSunatAplicacion\WcfService1SUNAT\bin\EntityFramework.dll
+C:\Users\DEIVI\source\repos\slnSunatAplicacion\WcfService1SUNAT\bin\EntityFramework.SqlServer.dll
+C:\Users\DEIVI\source\repos\slnSunatAplicacion\WcfService1SUNAT\bin\Sunat_BE.dll
+C:\Users\DEIVI\source\repos\slnSunatAplicacion\WcfService1SUNAT\bin\Sunat_BL.dll
+C:\Users\DEIVI\source\repos\slnSunatAplicacion\WcfService1SUNAT\bin\Sunat_AD.dll
+C:\Users\DEIVI\source\repos\slnSunatAplicacion\WcfService1SUNAT\bin\Sunat_BE.pdb
+C:\Users\DEIVI\source\repos\slnSunatAplicacion\WcfService1SUNAT\bin\Sunat_BE.dll.config
+C:\Users\DEIVI\source\repos\slnSunatAplicacion\WcfService1SUNAT\bin\Sunat_BL.pdb
+C:\Users\DEIVI\source\repos\slnSunatAplicacion\WcfService1SUNAT\bin\EntityFramework.xml
+C:\Users\DEIVI\source\repos\slnSunatAplicacion\WcfService1SUNAT\bin\EntityFramework.SqlServer.xml
+C:\Users\DEIVI\source\repos\slnSunatAplicacion\WcfService1SUNAT\bin\Sunat_AD.pdb
+C:\Users\DEIVI\source\repos\slnSunatAplicacion\WcfService1SUNAT\bin\Sunat_AD.dll.config
+C:\Users\DEIVI\source\repos\slnSunatAplicacion\WcfService1SUNAT\obj\Debug\WcfService1SUNAT.csproj.CopyComplete
+C:\Users\Croweloper\Desktop\slnSunatAplicacion\WcfService1SUNAT\obj\Debug\WcfService1SUNAT.csprojAssemblyReference.cache
+C:\Users\Croweloper\Desktop\slnSunatAplicacion\WcfService1SUNAT\obj\Debug\WcfService1SUNAT.csproj.CoreCompileInputs.cache
+C:\Users\Croweloper\Desktop\slnSunatAplicacion\WcfService1SUNAT\obj\Debug\WcfService1SUNAT.dll
+C:\Users\Croweloper\Desktop\slnSunatAplicacion\WcfService1SUNAT\obj\Debug\WcfService1SUNAT.pdb
+C:\Users\Croweloper\Desktop\slnSunatAplicacion\WcfService1SUNAT\bin\WcfService1SUNAT.dll.config
+C:\Users\Croweloper\Desktop\slnSunatAplicacion\WcfService1SUNAT\bin\WcfService1SUNAT.dll
+C:\Users\Croweloper\Desktop\slnSunatAplicacion\WcfService1SUNAT\bin\WcfService1SUNAT.pdb
+C:\Users\Croweloper\Desktop\slnSunatAplicacion\WcfService1SUNAT\bin\EntityFramework.dll
+C:\Users\Croweloper\Desktop\slnSunatAplicacion\WcfService1SUNAT\bin\EntityFramework.SqlServer.dll
+C:\Users\Croweloper\Desktop\slnSunatAplicacion\WcfService1SUNAT\bin\Sunat_BE.dll
+C:\Users\Croweloper\Desktop\slnSunatAplicacion\WcfService1SUNAT\bin\Sunat_BL.dll
+C:\Users\Croweloper\Desktop\slnSunatAplicacion\WcfService1SUNAT\bin\Sunat_AD.dll
+C:\Users\Croweloper\Desktop\slnSunatAplicacion\WcfService1SUNAT\bin\Sunat_BE.pdb
+C:\Users\Croweloper\Desktop\slnSunatAplicacion\WcfService1SUNAT\bin\Sunat_BE.dll.config
+C:\Users\Croweloper\Desktop\slnSunatAplicacion\WcfService1SUNAT\bin\Sunat_BL.pdb
+C:\Users\Croweloper\Desktop\slnSunatAplicacion\WcfService1SUNAT\bin\EntityFramework.xml
+C:\Users\Croweloper\Desktop\slnSunatAplicacion\WcfService1SUNAT\bin\EntityFramework.SqlServer.xml
+C:\Users\Croweloper\Desktop\slnSunatAplicacion\WcfService1SUNAT\bin\Sunat_AD.pdb
+C:\Users\Croweloper\Desktop\slnSunatAplicacion\WcfService1SUNAT\bin\Sunat_AD.dll.config
+C:\Users\Croweloper\Desktop\slnSunatAplicacion\WcfService1SUNAT\obj\Debug\WcfService1SUNAT.csproj.CopyComplete
+C:\Users\CARLOS\Desktop\slnSunatAplicacion\WcfService1SUNAT\bin\WcfService1SUNAT.dll.config
+C:\Users\CARLOS\Desktop\slnSunatAplicacion\WcfService1SUNAT\bin\WcfService1SUNAT.dll
+C:\Users\CARLOS\Desktop\slnSunatAplicacion\WcfService1SUNAT\bin\WcfService1SUNAT.pdb
+C:\Users\CARLOS\Desktop\slnSunatAplicacion\WcfService1SUNAT\bin\EntityFramework.dll
+C:\Users\CARLOS\Desktop\slnSunatAplicacion\WcfService1SUNAT\bin\EntityFramework.SqlServer.dll
+C:\Users\CARLOS\Desktop\slnSunatAplicacion\WcfService1SUNAT\bin\Sunat_BE.dll
+C:\Users\CARLOS\Desktop\slnSunatAplicacion\WcfService1SUNAT\bin\Sunat_BL.dll
+C:\Users\CARLOS\Desktop\slnSunatAplicacion\WcfService1SUNAT\bin\Sunat_AD.dll
+C:\Users\CARLOS\Desktop\slnSunatAplicacion\WcfService1SUNAT\bin\Sunat_BE.pdb
+C:\Users\CARLOS\Desktop\slnSunatAplicacion\WcfService1SUNAT\bin\Sunat_BE.dll.config
+C:\Users\CARLOS\Desktop\slnSunatAplicacion\WcfService1SUNAT\bin\Sunat_BL.pdb
+C:\Users\CARLOS\Desktop\slnSunatAplicacion\WcfService1SUNAT\bin\EntityFramework.xml
+C:\Users\CARLOS\Desktop\slnSunatAplicacion\WcfService1SUNAT\bin\EntityFramework.SqlServer.xml
+C:\Users\CARLOS\Desktop\slnSunatAplicacion\WcfService1SUNAT\bin\Sunat_AD.pdb
+C:\Users\CARLOS\Desktop\slnSunatAplicacion\WcfService1SUNAT\bin\Sunat_AD.dll.config
+C:\Users\CARLOS\Desktop\slnSunatAplicacion\WcfService1SUNAT\obj\Debug\WcfService1SUNAT.csprojAssemblyReference.cache
+C:\Users\CARLOS\Desktop\slnSunatAplicacion\WcfService1SUNAT\obj\Debug\WcfService1SUNAT.csproj.CoreCompileInputs.cache
+C:\Users\CARLOS\Desktop\slnSunatAplicacion\WcfService1SUNAT\obj\Debug\WcfService1SUNAT.csproj.CopyComplete
+C:\Users\CARLOS\Desktop\slnSunatAplicacion\WcfService1SUNAT\obj\Debug\WcfService1SUNAT.dll
+C:\Users\CARLOS\Desktop\slnSunatAplicacion\WcfService1SUNAT\obj\Debug\WcfService1SUNAT.pdb
+H:\idat\ciclo 4\Arquitectura de sistemas y herramientas profe veneco\slnSunatAplicacion\WcfService1SUNAT\bin\WcfService1SUNAT.dll.config
+H:\idat\ciclo 4\Arquitectura de sistemas y herramientas profe veneco\slnSunatAplicacion\WcfService1SUNAT\bin\WcfService1SUNAT.dll
+H:\idat\ciclo 4\Arquitectura de sistemas y herramientas profe veneco\slnSunatAplicacion\WcfService1SUNAT\bin\WcfService1SUNAT.pdb
+H:\idat\ciclo 4\Arquitectura de sistemas y herramientas profe veneco\slnSunatAplicacion\WcfService1SUNAT\bin\EntityFramework.dll
+H:\idat\ciclo 4\Arquitectura de sistemas y herramientas profe veneco\slnSunatAplicacion\WcfService1SUNAT\bin\EntityFramework.SqlServer.dll
+H:\idat\ciclo 4\Arquitectura de sistemas y herramientas profe veneco\slnSunatAplicacion\WcfService1SUNAT\bin\Sunat_BE.dll
+H:\idat\ciclo 4\Arquitectura de sistemas y herramientas profe veneco\slnSunatAplicacion\WcfService1SUNAT\bin\Sunat_BL.dll
+H:\idat\ciclo 4\Arquitectura de sistemas y herramientas profe veneco\slnSunatAplicacion\WcfService1SUNAT\bin\Sunat_AD.dll
+H:\idat\ciclo 4\Arquitectura de sistemas y herramientas profe veneco\slnSunatAplicacion\WcfService1SUNAT\bin\Sunat_BE.pdb
+H:\idat\ciclo 4\Arquitectura de sistemas y herramientas profe veneco\slnSunatAplicacion\WcfService1SUNAT\bin\Sunat_BE.dll.config
+H:\idat\ciclo 4\Arquitectura de sistemas y herramientas profe veneco\slnSunatAplicacion\WcfService1SUNAT\bin\Sunat_BL.pdb
+H:\idat\ciclo 4\Arquitectura de sistemas y herramientas profe veneco\slnSunatAplicacion\WcfService1SUNAT\bin\EntityFramework.xml
+H:\idat\ciclo 4\Arquitectura de sistemas y herramientas profe veneco\slnSunatAplicacion\WcfService1SUNAT\bin\EntityFramework.SqlServer.xml
+H:\idat\ciclo 4\Arquitectura de sistemas y herramientas profe veneco\slnSunatAplicacion\WcfService1SUNAT\bin\Sunat_AD.pdb
+H:\idat\ciclo 4\Arquitectura de sistemas y herramientas profe veneco\slnSunatAplicacion\WcfService1SUNAT\bin\Sunat_AD.dll.config
+H:\idat\ciclo 4\Arquitectura de sistemas y herramientas profe veneco\slnSunatAplicacion\WcfService1SUNAT\obj\Debug\WcfService1SUNAT.csprojAssemblyReference.cache
+H:\idat\ciclo 4\Arquitectura de sistemas y herramientas profe veneco\slnSunatAplicacion\WcfService1SUNAT\obj\Debug\WcfService1SUNAT.csproj.CoreCompileInputs.cache
+H:\idat\ciclo 4\Arquitectura de sistemas y herramientas profe veneco\slnSunatAplicacion\WcfService1SUNAT\obj\Debug\WcfService1SUNAT.csproj.CopyComplete
+H:\idat\ciclo 4\Arquitectura de sistemas y herramientas profe veneco\slnSunatAplicacion\WcfService1SUNAT\obj\Debug\WcfService1SUNAT.dll
+H:\idat\ciclo 4\Arquitectura de sistemas y herramientas profe veneco\slnSunatAplicacion\WcfService1SUNAT\obj\Debug\WcfService1SUNAT.pdb
