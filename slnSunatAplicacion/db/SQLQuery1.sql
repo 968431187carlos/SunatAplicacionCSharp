@@ -154,8 +154,10 @@ WHERE 	IdEmpresa = @IdEmpresa/* add search conditions here */
 END
 GO
 
-exec AgregarEmpresa 'e004','Selene','0004',3
+--exec AgregarEmpresa 'e004','Selene','0004',3
 
-exec BorrarEmpresa 'e004'
+--exec BorrarEmpresa 'e004'
+
+--select * FROM empresa
 
 
